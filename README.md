@@ -1,4 +1,6 @@
-#WELCOME TO MY LEARNING JOURNEY 🐱‍🏍
+
+# WELCOME TO MY LEARNING JOURNEY 🐱‍🏍
+
 
 🎇Welcome To My Java Self-Study Repository! 📚💻
 
@@ -15,7 +17,7 @@ Table of Contents 📑
 
 ------------------------------------------📚Here was my RodMap for learn java 🐱‍🏍📚------------------------------------------------------------------------------------
 
-#Month 1: Java Fundamentals..📚
+# Month 1: Java Fundamentals..📚
 
 Day |	Task | Time
 
