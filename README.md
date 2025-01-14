@@ -21,7 +21,7 @@ Table of Contents 📑
 
 Day |	Task | Time
 
-| 1-2 | Install Java, Eclipse/IntelliJ, basic programs | 2 hours/day |
+| 1-2 | basic programs | 2 hours/day |
 | 3-4 | Java Basics: variables, data types, operators | 2 hours/day |
 | 5-6 | Control Structures: if-else, switch, loops | 2 hours/day |
 | 7 | Practice programming exercises | 3 hours |------(Sat)-------
